@@ -1,14 +1,14 @@
 const toDoListData = [
   {
-    title: "Learn more about React",
+    title: "Pick up dry cleaning",
     completed: true
   },
   {
-    title: "Write a new Component",
+    title: "Do laundry",
     completed: false
   },
   {
-    title: "Add some style",
+    title: "Get lunch",
     completed: false
   }
 ];
